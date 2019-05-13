@@ -1,6 +1,6 @@
 # COSMOS CFDP Engine (cosmos v4.1.1)
 
-[![AUR](https://img.shields.io/aur/license/yaourt.svg)](https://github.com/edipovisiona/cfdp-engine/blob/master/LICENSE)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
 ## What does it do
 
